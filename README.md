@@ -1,1 +1,1 @@
-# This is repository for Computational Physics Assignment 2
+# This is a repository for Computational Physics Assignment 2
